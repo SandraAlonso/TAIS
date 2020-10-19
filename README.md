@@ -18,6 +18,7 @@ Ejercicios de la asignatura Técnicas algorítmicas de la ingeniería del softwa
    </ol>
   </li>
   <li>Contiene la solución del examen de enero de 2020.</li>
+  <li>Contiene la solución de algunos ejercicios de examen desde 2016.</li>
   </ul>
   
 Todos los ejercicios pasaron el control del juez (DOMJUDGE) de la asignatura.
